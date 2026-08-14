@@ -1,0 +1,4 @@
+interface:
+  display_name: "Organizational Roster Building"
+  short_description: "Rapidly discover and verify organization rosters"
+  default_prompt: "Use $organizational-roster-building to rapidly discover and independently verify a current organization roster for a defined sector and geography."
